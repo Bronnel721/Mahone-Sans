@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: MahoneSansBoldItalic
-FullName: MahoneSans Bold Italic
-FamilyName: MahoneSans
+FullName: Mahone Sans Bold Italic
+FamilyName: Mahone Sans
 Weight: Bold
 Copyright: Copyright (c) 2022, Marco G Mahone
 UComments: "2022-4-30: Created with FontForge (http://fontforge.org)"
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1651348897
-ModificationTime: 1651363000
+ModificationTime: 1651363140
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
