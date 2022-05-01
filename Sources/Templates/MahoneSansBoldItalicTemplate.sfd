@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1651348897
-ModificationTime: 1651363140
+ModificationTime: 1651364421
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -41,20 +41,26 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 1 0 0 "MahoneSansBold-'ss09' Style Set 9 lookup 17" { "MahoneSansBold-'ss09' Style Set 9 lookup 17-1"  } ['ss09' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'ss08' Style Set 8 lookup 16" { "MahoneSansBold-'ss08' Style Set 8 lookup 16-1"  } ['ss08' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'ss07' Style Set 7 lookup 15" { "MahoneSansBold-'ss07' Style Set 7 lookup 15-1"  } ['ss07' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'ss06' Style Set 6 lookup 14" { "MahoneSansBold-'ss06' Style Set 6 lookup 14-1"  } ['ss06' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'locl' Localized Forms in Cyrillic lookup 19" { "MahoneSansBold-'locl' Localized Forms in Cyrillic lookup 19-1"  } ['locl' ('cyrl' <'SRB ' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'locl' Localized Forms in Cyrillic lookup 20" { "MahoneSansBold-'locl' Localized Forms in Cyrillic lookup 20-1"  } ['locl' ('cyrl' <'BRG ' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'subs' Subscript lookup 0" { "MahoneSansBold-'subs' Subscript lookup 0 subtable"  } ['subs' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'sinf' Scientific Inferiors lookup 0" { "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable"  } ['sinf' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'sups' Superscript lookup 0" { "MahoneSansBold-'sups' Superscript lookup 0 subtable"  } ['sups' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'case' Case-Sensitive Forms in Latin lookup 6" { "MahoneSansBold-'case' Case-Sensitive Forms in Latin lookup 6-1"  } ['case' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3" { "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1"  } ['salt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4" { "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1"  } ['onum' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5" { "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1"  } ['tnum' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "MahoneSansBold-'dnom' Denominators lookup 0" { "MahoneSansBold-'dnom' Denominators lookup 0 subtable"  } ['dnom' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'ss09' Style Set 9 lookup 17" { "MahoneSansBold-'ss09' Style Set 9 lookup 17-1" ("salt") } ['ss09' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'ss08' Style Set 8 lookup 16" { "MahoneSansBold-'ss08' Style Set 8 lookup 16-1" ("salt") } ['ss08' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'ss01' Style Set 1 lookup 9" { "MahoneSansBold-'ss01' Style Set 1 lookup 9-1" ("salt") } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'ss02' Style Set 2 lookup 10" { "MahoneSansBold-'ss02' Style Set 2 lookup 10-1" ("salt") } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'ss03' Style Set 3 lookup 11" { "MahoneSansBold-'ss03' Style Set 3 lookup 11-1" ("salt") } ['ss03' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'ss07' Style Set 7 lookup 15" { "MahoneSansBold-'ss07' Style Set 7 lookup 15-1" ("salt") } ['ss07' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'ss04' Style Set 4 lookup 12" { "MahoneSansBold-'ss04' Style Set 4 lookup 12-1" ("salt") } ['ss04' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'ss05' Style Set 5 lookup 13" { "MahoneSansBold-'ss05' Style Set 5 lookup 13-1" ("salt") } ['ss05' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'ss06' Style Set 6 lookup 14" { "MahoneSansBold-'ss06' Style Set 6 lookup 14-1" ("salt") } ['ss06' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'locl' Localized Forms in Cyrillic lookup 19" { "MahoneSansBold-'locl' Localized Forms in Cyrillic lookup 19-1" ("loclSRB") } ['locl' ('cyrl' <'SRB ' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'locl' Localized Forms in Cyrillic lookup 20" { "MahoneSansBold-'locl' Localized Forms in Cyrillic lookup 20-1" ("loclBRG") } ['locl' ('cyrl' <'BRG ' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'subs' Subscript lookup 0" { "MahoneSansBold-'subs' Subscript lookup 0 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'sinf' Scientific Inferiors lookup 0" { "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" ("sinf") } ['sinf' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'sups' Superscript lookup 0" { "MahoneSansBold-'sups' Superscript lookup 0 subtable" ("sups") } ['sups' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'case' Case-Sensitive Forms in Latin lookup 6" { "MahoneSansBold-'case' Case-Sensitive Forms in Latin lookup 6-1" ("case") } ['case' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3" { "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" ("salt") } ['salt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'ss10' Style Set 10 lookup 18" { "MahoneSansBold-'ss10' Style Set 10 lookup 18-1" ("salt") } ['ss10' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4" { "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" ("osf") } ['onum' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5" { "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" ("tf") } ['tnum' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "MahoneSansBold-'dnom' Denominators lookup 0" { "MahoneSansBold-'dnom' Denominators lookup 0 subtable" ("dnom") } ['dnom' ('DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "MahoneSansBold-'numr' Numerators lookup 0" { "MahoneSansBold-'numr' Numerators lookup 0 subtable"  } ['numr' ('DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -65,7 +71,7 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 70
-WinInfo: 1114050 25 9
+WinInfo: 1114025 25 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -104,6 +110,13 @@ SplineSet
  536.8828125 102.860351562 424.942382812 -21.0927734375 254.522460938 -12.1123046875 c 0
  84.1015625 -3.130859375 12.7314453125 130.482421875 43.8134765625 327.810546875 c 0
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" zero.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" zero.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" zero.tf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" zero.osf
+Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" zero.sups
+Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" zero.sinf
+Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" zero.subs
 EndChar
 
 StartChar: one
@@ -124,6 +137,13 @@ SplineSet
  310.997070312 0 l 1
  168.997070312 0 l 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" one.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" one.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" one.tf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" one.osf
+Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" one.sups
+Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" one.sinf
+Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" one.subs
 EndChar
 
 StartChar: two
@@ -152,6 +172,13 @@ SplineSet
  6.0322265625 120.833984375 l 5
  77.306640625 287.247070312 179.969747146 328.572207485 278.708984375 363.528320312 c 0
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" two.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" two.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" two.tf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" two.osf
+Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" two.sups
+Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" two.sinf
+Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" two.subs
 EndChar
 
 StartChar: three
@@ -180,6 +207,13 @@ SplineSet
  437.002929688 633.70703125 529.314453125 569.474609375 510.81640625 452.036132812 c 0
  492.318359375 334.59765625 352.319335938 296.260742188 224.736328125 319.095703125 c 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" three.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" three.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" three.tf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" three.osf
+Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" three.sups
+Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" three.sinf
+Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" three.subs
 EndChar
 
 StartChar: four
@@ -205,6 +239,13 @@ SplineSet
  409.541015625 0 l 1
  267.541015625 0 l 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" four.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" four.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" four.tf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" four.osf
+Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" four.sups
+Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" four.sinf
+Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" four.subs
 EndChar
 
 StartChar: five
@@ -235,6 +276,13 @@ SplineSet
  295.962890625 123.228515625 339.919921875 159.45703125 348.385742188 213.201171875 c 0
  356.850585938 266.944335938 322.676757812 343.385742188 90.8173828125 270.016601562 c 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" five.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" five.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" five.tf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" five.osf
+Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" five.sups
+Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" five.sinf
+Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" five.subs
 EndChar
 
 StartChar: six
@@ -260,6 +308,15 @@ SplineSet
  489.00390625 445.857421875 445.76953125 495.559570312 365.208984375 499.8046875 c 0
  258.349609375 505.435546875 198.638671875 434.225585938 180.280273438 324.01953125 c 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" six.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" six.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" six.tf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" six.osf
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" six.salt
+Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" six.sups
+Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" six.sinf
+Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" six.subs
+Substitution2: "MahoneSansBold-'ss03' Style Set 3 lookup 11-1" six.salt
 EndChar
 
 StartChar: seven
@@ -280,6 +337,13 @@ SplineSet
  522.666992188 496 308.560546875 362 231.541015625 0 c 1
  79.541015625 0 l 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" seven.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" seven.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" seven.tf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" seven.osf
+Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" seven.sups
+Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" seven.sinf
+Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" seven.subs
 EndChar
 
 StartChar: eight
@@ -310,6 +374,13 @@ SplineSet
  489.155273438 53.9755859375 385.080078125 -20.0458984375 234.522460938 -12.1123046875 c 0
  83.9638671875 -4.177734375 5.015625 81.318359375 23.2275390625 196.942382812 c 0
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" eight.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" eight.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" eight.tf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" eight.osf
+Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" eight.sups
+Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" eight.sinf
+Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" eight.subs
 EndChar
 
 StartChar: nine
@@ -338,6 +409,15 @@ SplineSet
  350.748046875 121.452148438 391.508789062 200.962890625 408.33984375 307.81640625 c 0
  408.532226562 309.038085938 408.90234375 311.45703125 408.90234375 311.45703125 c 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" nine.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" nine.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" nine.tf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" nine.osf
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" nine.salt
+Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" nine.sups
+Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" nine.sinf
+Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" nine.subs
+Substitution2: "MahoneSansBold-'ss03' Style Set 3 lookup 11-1" nine.salt
 EndChar
 
 StartChar: A
@@ -1035,6 +1115,8 @@ SplineSet
  365.610351562 427.70703125 385.712890625 352.973632812 362.420898438 205.09765625 c 0xaa
  339.127929688 57.2197265625 296.0078125 -14.181640625 183.505859375 -8.2529296875 c 0
 EndSplineSet
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" a.salt
+Substitution2: "MahoneSansBold-'ss01' Style Set 1 lookup 9-1" a.salt
 EndChar
 
 StartChar: b
@@ -1061,6 +1143,8 @@ SplineSet
  112 0 l 1
  -18 0 l 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" b.salt
+Substitution2: "MahoneSansBold-'ss06' Style Set 6 lookup 14-1" b.salt
 EndChar
 
 StartChar: c
@@ -1101,14 +1185,16 @@ SplineSet
  32.09765625 371.055664062 114.944335938 440.364257812 227.446289062 434.435546875 c 0
  339.948242188 428.506835938 360.05078125 353.7734375 336.7578125 205.897460938 c 0
  313.465820312 58.0205078125 270.344726562 -13.3818359375 157.84375 -7.453125 c 0
-424 5 m 1
- 275 -5 l 1
- 275 -5 270.112304688 27.958984375 279.202148438 85.884765625 c 2
- 367 650.400390625 l 1
- 508 640.400390625 l 1
- 427.64453125 134.44921875 l 2
- 417.750071058 71.5339485291 424 5 424 5 c 1
+424 5 m 5
+ 275 -5 l 5
+ 275 -5 270.112304688 27.958984375 279.202148438 85.884765625 c 6
+ 367 650.400390625 l 5
+ 508 640.400390625 l 5
+ 427.64453125 134.44921875 l 6
+ 417.750071058 71.5339485291 424 5 424 5 c 5
 EndSplineSet
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" d.salt
+Substitution2: "MahoneSansBold-'ss06' Style Set 6 lookup 14-1" d.salt
 EndChar
 
 StartChar: e
@@ -1135,6 +1221,8 @@ SplineSet
  331.553710938 283.765625 290.377929688 293.369140625 254.368164062 295.266601562 c 0
  220.344726562 297.059570312 182.548828125 277.36328125 172.6640625 214.606445312 c 0
 EndSplineSet
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" e.salt
+Substitution2: "MahoneSansBold-'ss07' Style Set 7 lookup 15-1" e.salt
 EndChar
 
 StartChar: f
@@ -1308,6 +1396,8 @@ SplineSet
  79 645.400390625 l 1
  219 645.400390625 l 5
 EndSplineSet
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" l.salt
+Substitution2: "MahoneSansBold-'ss02' Style Set 2 lookup 10-1" l.salt
 EndChar
 
 StartChar: m
@@ -1422,6 +1512,8 @@ SplineSet
  194.07421875 219.733398438 156.88869501 12.1334635416 125 -193 c 1
  -17 -193 l 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" p.salt
+Substitution2: "MahoneSansBold-'ss06' Style Set 6 lookup 14-1" p.salt
 EndChar
 
 StartChar: q
@@ -1449,6 +1541,8 @@ SplineSet
  380.037109375 427.869140625 400.139648438 353.135742188 376.846679688 205.259765625 c 0
  353.5546875 57.3828125 310.434570312 -14.01953125 197.932617188 -8.0908203125 c 0
 EndSplineSet
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" q.salt
+Substitution2: "MahoneSansBold-'ss06' Style Set 6 lookup 14-1" q.salt
 EndChar
 
 StartChar: r
@@ -1524,6 +1618,8 @@ SplineSet
  134.3515625 543.982421875 l 1
  277.130859375 556.596679688 l 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" t.salt
+Substitution2: "MahoneSansBold-'ss09' Style Set 9 lookup 17-1" t.salt
 EndChar
 
 StartChar: u
@@ -1552,6 +1648,8 @@ SplineSet
  381.893554688 416.602539062 l 1
  347.571289062 198.702148438 l 2
 EndSplineSet
+Substitution2: "MahoneSansBold-'ss10' Style Set 10 lookup 18-1" u.salt
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" u.salt
 EndChar
 
 StartChar: v
@@ -1649,6 +1747,8 @@ SplineSet
  34.2724609375 -120.805664062 l 1
  34.2724609375 -120.805664062 325 62 419 426.400390625 c 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" y.salt
+Substitution2: "MahoneSansBold-'ss04' Style Set 4 lookup 12-1" y.salt
 EndChar
 
 StartChar: z
@@ -1781,6 +1881,8 @@ SplineSet
  360.5546875 159.337890625 385.31640625 113.715820312 546.766601562 124.192382812 c 1
  539.026367188 4.43359375 l 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" ampersand.alt
+Substitution2: "MahoneSansBold-'ss05' Style Set 5 lookup 13-1" ampersand.alt
 EndChar
 
 StartChar: question
@@ -1847,6 +1949,7 @@ SplineSet
  587.25390625 -25.2119140625 l 1
  587.25390625 -25.2119140625 469.873046875 -79.8203125 308.495117188 -71.3623046875 c 0
 EndSplineSet
+Substitution2: "MahoneSansBold-'case' Case-Sensitive Forms in Latin lookup 6-1" at.case
 EndChar
 
 StartChar: colon
@@ -2683,47 +2786,47 @@ EndChar
 StartChar: a.salt
 Encoding: 1114120 -1 106
 Width: 466
-Flags: W
+Flags: HW
 HStem: -10.0479 130.865<123.159 261.528> 0 21G<295.108 435.713> 295.382 136.865<74.2849 266.433>
 VStem: 287.59 42<168.199 263.199>
 LayerCount: 2
 Fore
 SplineSet
-207.098632812 160.19921875 m 2xb0
- 193.307060072 159.298479986 184 154 184 142 c 0
- 184 128.319335938 195.3125 120.817382812 220.53125 120.817382812 c 0xb0
- 266.145507812 120.817382812 287.58984375 149 287.58984375 213.19921875 c 0
- 287.58984375 273 255.755332688 295.381835938 190.53125 295.381835938 c 0
- 115.176757812 295.381835938 78.642578125 279.19921875 78.642578125 279.19921875 c 1
- 47.23828125 404.646484375 l 1
- 47.23828125 404.646484375 93.587890625 432.247070312 210.53125 432.247070312 c 0
- 333.76953125 432.247070312 435.533203125 359.145507812 435.642578125 211.19921875 c 2
- 435.712890625 0 l 1
- 295.11328125 0 l 1x70
- 295.1015625 45.3935546875 l 1
- 295.1015625 45.3935546875 267.438476562 -10.0478515625 180.53125 -10.0478515625 c 0
- 65.7861328125 -10.0478515625 33.1601624834 69.396695481 33.1601624834 140.999998131 c 0
- 33.1601624834 220 99.9801621584 248.305837912 175.420898438 253.19921875 c 6
- 329.58984375 263.19921875 l 1
- 329.58984375 168.19921875 l 1
- 207.098632812 160.19921875 l 2xb0
+209.967773438 161.700195312 m 2
+ 196.131835938 161.522460938 186.125976562 156.717773438 184.413085938 144.734375 c 0
+ 182.458984375 131.072265625 192.631835938 122.98828125 217.696289062 121.668945312 c 0
+ 263.032226562 119.28125 288.368164062 146.303710938 297.533203125 210.4140625 c 0
+ 306.069335938 270.133789062 277.624023438 294.150390625 212.797851562 297.564453125 c 0
+ 137.904296875 301.5078125 99.283203125 287.259765625 99.283203125 287.259765625 c 1
+ 85.9775390625 414.178710938 l 1
+ 85.9775390625 414.178710938 135.984375 439.315429688 252.212890625 433.1953125 c 0
+ 374.698242188 426.745117188 466.025610057 348.327214464 444.395507812 200.668945312 c 0
+ 429 89 465 5 465 5 c 1
+ 304 -5 l 1
+ 304 -5 293 9 291.043945312 42.4453125 c 1
+ 291.043945312 42.4453125 255.63671875 -11.4716796875 169.260742188 -6.923828125 c 0
+ 55.2158203125 -0.91796875 24.1298828125 80.125 34.3515625 151.629882812 c 0
+ 45.6279296875 230.521484375 116.080078125 255.291992188 191.758789062 256.23046875 c 2
+ 346.4140625 258.147460938 l 1
+ 332.852539062 163.278320312 l 1
+ 209.967773438 161.700195312 l 2
 EndSplineSet
 EndChar
 
 StartChar: l.salt
 Encoding: 1114121 -1 107
-Width: 210
-Flags: W
-HStem: 0 21G<33 173.6> 625.4 20G<33 173.6>
-VStem: 33 140.6<0 645.4>
+Width: 284
+Flags: HW
+HStem: 0 21G<25.3123 165.912> 625.4 20G<25.3123 165.912>
+VStem: 25.3123 140.6<0 645.4>
 LayerCount: 2
 Fore
 SplineSet
-33 0 m 1
- 33 645.400390625 l 5
- 173.599609375 645.400390625 l 5
- 173.599609375 0 l 1
- 33 0 l 1
+175 0 m 1
+ 25 0 l 1
+ 116 645.400390625 l 1
+ 259 645.400390625 l 1
+ 175 0 l 1
 EndSplineSet
 EndChar
 
@@ -3078,13 +3181,13 @@ SplineSet
  353.946289062 638.348632812 457 657 457 657 c 5
  489 529 l 5
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" six.salt.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" six.salt.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" six.stf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" six.ssf
 Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" six.salt.sups
 Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" six.salt.sinf
 Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" six.salt.subs
-Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" six.stf
-Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" six.ssf
-Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" six.salt.dnom
-Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" six.salt.numr
 EndChar
 
 StartChar: nine.salt
@@ -3112,13 +3215,13 @@ SplineSet
  215 6 120 -8 120 -8 c 1
  99 111 l 1
 EndSplineSet
+Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" nine.salt.numr
+Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" nine.salt.dnom
+Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" nine.stf
+Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" nine.ssf
 Substitution2: "MahoneSansBold-'sups' Superscript lookup 0 subtable" nine.salt.sups
 Substitution2: "MahoneSansBold-'sinf' Scientific Inferiors lookup 0 subtable" nine.salt.sinf
 Substitution2: "MahoneSansBold-'subs' Subscript lookup 0 subtable" nine.salt.subs
-Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" nine.stf
-Substitution2: "MahoneSansBold-'onum' Oldstyle Figures in Latin lookup 4-1" nine.ssf
-Substitution2: "MahoneSansBold-'dnom' Denominators lookup 0 subtable" nine.salt.dnom
-Substitution2: "MahoneSansBold-'numr' Numerators lookup 0 subtable" nine.salt.numr
 EndChar
 
 StartChar: numbersign
@@ -3288,8 +3391,8 @@ SplineSet
  338.616210938 340.017578125 l 5
  489.448242188 160.356445312 l 5
 EndSplineSet
-Substitution2: "MahoneSansBold-'ss08' Style Set 8 lookup 16-1" registered.salt
 Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" registered.salt
+Substitution2: "MahoneSansBold-'ss08' Style Set 8 lookup 16-1" registered.salt
 EndChar
 
 StartChar: degree
@@ -4931,8 +5034,8 @@ SplineSet
  209.427734375 235.796875 188.188476562 218.536132812 188.188476562 179 c 0
  188.188476562 140.8046875 218.336914062 126.081054688 253.5078125 126.081054688 c 4
 EndSplineSet
-Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" six.ssf
 Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" six.tosf
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" six.ssf
 EndChar
 
 StartChar: seven.osf
@@ -5012,8 +5115,8 @@ SplineSet
  271.93359375 224.090820312 293.172851562 241.3515625 293.172851562 280.887695312 c 0
  293.172851562 319.083007812 264.024414062 333.806640625 228.853515625 333.806640625 c 4
 EndSplineSet
-Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" nine.ssf
 Substitution2: "MahoneSansBold-'tnum' Tabular Numbers in Latin lookup 5-1" nine.tosf
+Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" nine.ssf
 EndChar
 
 StartChar: dotlessi
@@ -5859,13 +5962,13 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-46.88671875 545.334960938 m 4
- 46.88671875 602.954101562 85.4609375 640.559570312 135.498046875 640.559570312 c 4
- 185.5390625 640.559570312 224.11328125 602.954101562 224.11328125 545.334960938 c 4
- 224.11328125 464.5625 130.720703125 367.75 130.720703125 367.75 c 5
- 65.83984375 406.38671875 l 5
- 118.509765625 454.40234375 l 5
- 71.484375 458.879882812 46.88671875 499.322265625 46.88671875 545.334960938 c 4
+53.4853515625 549.689453125 m 4
+ 62.548828125 606.913085938 106.985351562 642.241210938 156.954101562 639.622070312 c 4
+ 206.926757812 637.00390625 239.532226562 597.637695312 230.469726562 540.4140625 c 4
+ 217.763671875 460.197265625 109.271484375 368.9375 109.271484375 368.9375 c 5
+ 50.556640625 410.704101562 l 5
+ 110.70703125 455.633789062 l 5
+ 64.4501953125 462.541015625 46.248046875 503.993164062 53.4853515625 549.689453125 c 4
 EndSplineSet
 EndChar
 
@@ -5876,102 +5979,102 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-224.11328125 462.974609375 m 4
- 224.11328125 405.35546875 185.5390625 367.75 135.501953125 367.75 c 4
- 85.4609375 367.75 46.88671875 405.35546875 46.88671875 462.974609375 c 4
- 46.88671875 543.747070312 140.279296875 640.559570312 140.279296875 640.559570312 c 5
- 205.16015625 601.922851562 l 5
- 152.490234375 553.907226562 l 5
- 199.515625 549.4296875 224.11328125 508.987304688 224.11328125 462.974609375 c 4
+217.514648438 458.620117188 m 4
+ 208.451171875 401.396484375 164.014648438 366.068359375 114.045898438 368.6875 c 4
+ 64.0732421875 371.305664062 31.4677734375 410.671875 40.5302734375 467.895507812 c 4
+ 53.236328125 548.112304688 161.728515625 639.372070312 161.728515625 639.372070312 c 5
+ 220.443359375 597.60546875 l 5
+ 160.29296875 552.67578125 l 5
+ 206.549804688 545.768554688 224.751953125 504.31640625 217.514648438 458.620117188 c 4
 EndSplineSet
 EndChar
 
 StartChar: quotedblright
 Encoding: 8221 8221 232
-Width: 493
+Width: 462
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-268.88671875 545.334960938 m 4
- 268.88671875 602.954101562 307.4609375 640.559570312 357.498046875 640.559570312 c 4
- 407.5390625 640.559570312 446.11328125 602.954101562 446.11328125 545.334960938 c 4
- 446.11328125 464.5625 352.720703125 367.75 352.720703125 367.75 c 5
- 287.83984375 406.38671875 l 5
- 340.509765625 454.40234375 l 5
- 293.484375 458.879882812 268.88671875 499.322265625 268.88671875 545.334960938 c 4
-46.88671875 545.334960938 m 0
- 46.88671875 602.954101562 85.4609375 640.559570312 135.498046875 640.559570312 c 0
- 185.5390625 640.559570312 224.11328125 602.954101562 224.11328125 545.334960938 c 0
- 224.11328125 464.5625 130.720703125 367.75 130.720703125 367.75 c 1
- 65.83984375 406.38671875 l 1
- 118.509765625 454.40234375 l 1
- 71.484375 458.879882812 46.88671875 499.322265625 46.88671875 545.334960938 c 0
+32.9287109375 549.302734375 m 4
+ 41.9921875 606.526367188 86.4287109375 641.854492188 136.397460938 639.235351562 c 4
+ 186.370117188 636.6171875 218.975585938 597.250976562 209.913085938 540.02734375 c 4
+ 197.20703125 459.810546875 88.71484375 368.55078125 88.71484375 368.55078125 c 5
+ 30 410.317382812 l 5
+ 90.150390625 455.247070312 l 5
+ 43.8935546875 462.154296875 25.69140625 503.606445312 32.9287109375 549.302734375 c 4
+255.928710938 549.302734375 m 0
+ 264.9921875 606.526367188 309.428710938 641.854492188 359.397460938 639.235351562 c 0
+ 409.370117188 636.6171875 441.975585938 597.250976562 432.913085938 540.02734375 c 0
+ 420.20703125 459.810546875 311.71484375 368.55078125 311.71484375 368.55078125 c 1
+ 253 410.317382812 l 1
+ 313.150390625 455.247070312 l 1
+ 266.893554688 462.154296875 248.69140625 503.606445312 255.928710938 549.302734375 c 0
 EndSplineSet
 EndChar
 
 StartChar: quotedblleft
 Encoding: 8220 8220 233
-Width: 493
+Width: 465
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-224.11328125 462.974609375 m 4
- 224.11328125 405.35546875 185.5390625 367.75 135.501953125 367.75 c 4
- 85.4609375 367.75 46.88671875 405.35546875 46.88671875 462.974609375 c 4
- 46.88671875 543.747070312 140.279296875 640.559570312 140.279296875 640.559570312 c 5
- 205.16015625 601.922851562 l 5
- 152.490234375 553.907226562 l 5
- 199.515625 549.4296875 224.11328125 508.987304688 224.11328125 462.974609375 c 4
-446.11328125 462.974609375 m 0
- 446.11328125 405.35546875 407.5390625 367.75 357.501953125 367.75 c 0
- 307.4609375 367.75 268.88671875 405.35546875 268.88671875 462.974609375 c 0
- 268.88671875 543.747070312 362.279296875 640.559570312 362.279296875 640.559570312 c 1
- 427.16015625 601.922851562 l 1
- 374.490234375 553.907226562 l 1
- 421.515625 549.4296875 446.11328125 508.987304688 446.11328125 462.974609375 c 0
+432.495117188 458.620117188 m 4
+ 423.431640625 401.396484375 378.995117188 366.068359375 329.026367188 368.6875 c 4
+ 279.053710938 371.305664062 246.448242188 410.671875 255.510742188 467.895507812 c 4
+ 268.216796875 548.112304688 376.708984375 639.372070312 376.708984375 639.372070312 c 5
+ 435.423828125 597.60546875 l 5
+ 375.2734375 552.67578125 l 5
+ 421.530273438 545.768554688 439.732421875 504.31640625 432.495117188 458.620117188 c 4
+209.495117188 458.620117188 m 0
+ 200.431640625 401.396484375 155.995117188 366.068359375 106.026367188 368.6875 c 0
+ 56.0537109375 371.305664062 23.4482421875 410.671875 32.5107421875 467.895507812 c 0
+ 45.216796875 548.112304688 153.708984375 639.372070312 153.708984375 639.372070312 c 1
+ 212.423828125 597.60546875 l 1
+ 152.2734375 552.67578125 l 1
+ 198.530273438 545.768554688 216.732421875 504.31640625 209.495117188 458.620117188 c 0
 EndSplineSet
 EndChar
 
 StartChar: quotereversed
 Encoding: 8219 8219 234
-Width: 271
+Width: 262
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-46.88671875 462.974609375 m 4
- 46.88671875 508.987304688 71.484375 549.4296875 118.509765625 553.907226562 c 5
- 65.83984375 601.922851562 l 5
- 130.720703125 640.559570312 l 5
- 130.720703125 640.559570312 224.11328125 543.747070312 224.11328125 462.974609375 c 4
- 224.11328125 405.35546875 185.5390625 367.75 135.498046875 367.75 c 4
- 85.4609375 367.75 46.88671875 405.35546875 46.88671875 462.974609375 c 4
+32.5107421875 467.895507812 m 4
+ 39.7490234375 513.591796875 70.673828125 552.46875 118.33984375 554.454101562 c 5
+ 73.2939453125 604.896484375 l 5
+ 144.1640625 639.872070312 l 5
+ 144.1640625 639.872070312 222.200195312 538.836914062 209.495117188 458.620117188 c 4
+ 200.431640625 401.396484375 155.995117188 366.068359375 106.022460938 368.6875 c 4
+ 56.0537109375 371.305664062 23.4482421875 410.671875 32.5107421875 467.895507812 c 4
 EndSplineSet
 EndChar
 
 StartChar: uni201F
 Encoding: 8223 8223 235
-Width: 493
+Width: 445
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-268.88671875 462.974609375 m 4
- 268.88671875 508.987304688 293.484375 549.4296875 340.509765625 553.907226562 c 5
- 287.83984375 601.922851562 l 5
- 352.720703125 640.559570312 l 5
- 352.720703125 640.559570312 446.11328125 543.747070312 446.11328125 462.974609375 c 4
- 446.11328125 405.35546875 407.5390625 367.75 357.498046875 367.75 c 4
- 307.4609375 367.75 268.88671875 405.35546875 268.88671875 462.974609375 c 4
-46.88671875 462.974609375 m 0
- 46.88671875 508.987304688 71.484375 549.4296875 118.509765625 553.907226562 c 1
- 65.83984375 601.922851562 l 1
- 130.720703125 640.559570312 l 1
- 130.720703125 640.559570312 224.11328125 543.747070312 224.11328125 462.974609375 c 0
- 224.11328125 405.35546875 185.5390625 367.75 135.498046875 367.75 c 0
- 85.4609375 367.75 46.88671875 405.35546875 46.88671875 462.974609375 c 0
+234.510742188 467.895507812 m 4
+ 241.749023438 513.591796875 272.673828125 552.46875 320.33984375 554.454101562 c 5
+ 275.293945312 604.896484375 l 5
+ 346.1640625 639.872070312 l 5
+ 346.1640625 639.872070312 424.200195312 538.836914062 411.495117188 458.620117188 c 4
+ 402.431640625 401.396484375 357.995117188 366.068359375 308.022460938 368.6875 c 4
+ 258.053710938 371.305664062 225.448242188 410.671875 234.510742188 467.895507812 c 4
+32.5107421875 467.895507812 m 4
+ 39.7490234375 513.591796875 70.673828125 552.46875 118.33984375 554.454101562 c 5
+ 73.2939453125 604.896484375 l 5
+ 144.1640625 639.872070312 l 5
+ 144.1640625 639.872070312 222.200195312 538.836914062 209.495117188 458.620117188 c 4
+ 200.431640625 401.396484375 155.995117188 366.068359375 106.022460938 368.6875 c 4
+ 56.0537109375 371.305664062 23.4482421875 410.671875 32.5107421875 467.895507812 c 4
 EndSplineSet
 EndChar
 
@@ -5987,7 +6090,7 @@ EndChar
 
 StartChar: uni2048
 Encoding: 8264 8264 237
-Width: 796
+Width: 835
 Flags: H
 LayerCount: 2
 Fore
@@ -5997,21 +6100,21 @@ EndChar
 
 StartChar: uni2049
 Encoding: 8265 8265 238
-Width: 796
+Width: 835
 Flags: H
 LayerCount: 2
 Fore
-Refer: 68 63 N 1 0 0 1 255 0 2
+Refer: 68 63 N 1 0 0 1 294 0 2
 Refer: 66 33 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: exclamdbl
 Encoding: 8252 8252 239
-Width: 510
+Width: 588
 Flags: H
 LayerCount: 2
 Fore
-Refer: 66 33 N 1 0 0 1 255 0 2
+Refer: 66 33 N 1 0 0 1 294 0 2
 Refer: 66 33 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6022,25 +6125,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-202.22265625 230 m 1
- 182.22265625 698 l 5
- 324.22265625 698 l 5
- 304.22265625 230 l 1
- 202.22265625 230 l 1
-207.22265625 368 m 1
- 207.22265625 368 364.151367188 340.182617188 364.151367188 434 c 0
- 364.151367188 487.817382812 325.953125 502.09765625 247.111328125 502.09765625 c 0
- 165.993164062 502.09765625 75.330078125 460 75.330078125 460 c 1
- 32 592 l 1
- 32 592 136.4140625 640.559570312 247.111328125 640.559570312 c 0
- 398.7109375 640.559570312 506.111328125 563.654296875 506.111328125 446.0546875 c 0
- 506.111328125 328.455078125 395.22265625 262 257.22265625 283 c 0
- 207.22265625 368 l 1
-165.22265625 91.5625 m 0
- 165.22265625 149.181640625 203.796875 186.787109375 253.834960938 186.787109375 c 0
- 303.874023438 186.787109375 342.44921875 149.181640625 342.44921875 91.5625 c 0
- 342.44921875 33.9423828125 303.874023438 -3.662109375 253.834960938 -3.662109375 c 0
- 203.796875 -3.662109375 165.22265625 33.9423828125 165.22265625 91.5625 c 0
+187.161132812 230 m 1
+ 198.929541989 386.658948089 213.111135109 543.705583548 241.284179688 703 c 1
+ 383.284179688 693 l 1
+ 338.047853442 540.009248038 306.86476704 385.657390246 289.161132812 230 c 1
+ 187.161132812 230 l 1
+215.1015625 370.895507812 m 1
+ 215.1015625 370.895507812 367.439453125 335.056640625 382.197265625 428.229492188 c 0
+ 390.662109375 481.676757812 354.762695312 497.858398438 276.028320312 501.984375 c 0
+ 195.021484375 506.229492188 97.861328125 469.166015625 97.861328125 469.166015625 c 1
+ 75.353515625 602.52734375 l 1
+ 75.353515625 602.52734375 187.262695312 645.288085938 297.80859375 639.495117188 c 0
+ 449.200195312 631.560546875 544.356445312 549.5625 525.858398438 432.771484375 c 0
+ 507.360351562 315.979492188 386.170898438 255.78515625 251.663085938 283.86328125 c 0
+ 215.1015625 370.895507812 l 1
+129.676757812 98.5556640625 m 0
+ 138.740234375 155.779296875 183.176757812 191.107421875 233.145507812 188.48828125 c 0
+ 283.116210938 185.869140625 315.723632812 146.50390625 306.66015625 89.2802734375 c 0
+ 297.596679688 32.056640625 253.159179688 -3.271484375 203.189453125 -0.65234375 c 0
+ 153.219726562 1.966796875 120.61328125 41.3310546875 129.676757812 98.5556640625 c 0
 EndSplineSet
 EndChar
 
@@ -10341,37 +10444,37 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-47 91.5625 m 0
- 47 149.181640625 85.57421875 186.787109375 135.612304688 186.787109375 c 0
- 185.65234375 186.787109375 224.227539062 149.181640625 224.227539062 91.5625 c 0
- 224.227539062 10.7900390625 130.834960938 -86.0224609375 130.834960938 -86.0224609375 c 1
- 65.9541015625 -47.3857421875 l 1
- 118.624023438 0.6298828125 l 1
- 71.5978016827 5.10777904277 47 45.5497463629 47 91.5625 c 0
+53.5986328125 95.9169921875 m 0
+ 62.662109375 153.140625 107.098632812 188.46875 157.068359375 185.849609375 c 0
+ 207.040039062 183.231445312 239.646484375 143.865234375 230.583984375 86.6416015625 c 0
+ 217.877929688 6.4248046875 109.385742188 -84.8349609375 109.385742188 -84.8349609375 c 1
+ 50.6708984375 -43.068359375 l 1
+ 110.821289062 1.861328125 l 1
+ 64.564453125 8.76953125 46.361328125 50.220703125 53.5986328125 95.9169921875 c 0
 EndSplineSet
 EndChar
 
 StartChar: quotedblbase
 Encoding: 8222 8222 394
-Width: 493
+Width: 478
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-269.000976562 91.5625 m 0
- 269.000976562 149.181640625 307.575195312 186.787109375 357.612304688 186.787109375 c 0
- 407.653320312 186.787109375 446.227539062 149.181640625 446.227539062 91.5625 c 0
- 446.227539062 10.7900390625 352.834960938 -86.0224609375 352.834960938 -86.0224609375 c 1
- 287.954101562 -47.3857421875 l 1
- 340.624023438 0.6298828125 l 1
- 293.598632812 5.107421875 269.000976562 45.5498046875 269.000976562 91.5625 c 0
-47.0009765625 91.5625 m 0
- 47.0009765625 149.181640625 85.5751953125 186.787109375 135.612304688 186.787109375 c 0
- 185.653320312 186.787109375 224.227539062 149.181640625 224.227539062 91.5625 c 0
- 224.227539062 10.7900390625 130.834960938 -86.0224609375 130.834960938 -86.0224609375 c 1
- 65.9541015625 -47.3857421875 l 1
- 118.624023438 0.6298828125 l 1
- 71.5986328125 5.107421875 47.0009765625 45.5498046875 47.0009765625 91.5625 c 0
+39.9287109375 95.9169921875 m 4
+ 48.9921875 153.140625 93.4287109375 188.46875 143.397460938 185.849609375 c 4
+ 193.370117188 183.231445312 225.975585938 143.865234375 216.913085938 86.6416015625 c 4
+ 204.20703125 6.4248046875 95.71484375 -84.8349609375 95.71484375 -84.8349609375 c 5
+ 37 -43.068359375 l 5
+ 97.150390625 1.861328125 l 5
+ 50.8935546875 8.7685546875 32.69140625 50.220703125 39.9287109375 95.9169921875 c 4
+262.928710938 95.9169921875 m 4
+ 271.9921875 153.140625 316.428710938 188.46875 366.397460938 185.849609375 c 4
+ 416.370117188 183.231445312 448.975585938 143.865234375 439.913085938 86.6416015625 c 4
+ 427.20703125 6.4248046875 318.71484375 -84.8349609375 318.71484375 -84.8349609375 c 5
+ 260 -43.068359375 l 5
+ 320.150390625 1.861328125 l 5
+ 273.893554688 8.7685546875 255.69140625 50.220703125 262.928710938 95.9169921875 c 4
 EndSplineSet
 EndChar
 
@@ -12297,8 +12400,8 @@ SplineSet
  456.221679688 145 l 2
  456.221679688 82 476.221679688 0 476.221679688 0 c 1
 EndSplineSet
-Substitution2: "MahoneSansBold-'ss06' Style Set 6 lookup 14-1" dcroat.salt
 Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" dcroat.salt
+Substitution2: "MahoneSansBold-'ss06' Style Set 6 lookup 14-1" dcroat.salt
 EndChar
 
 StartChar: hbar
@@ -12482,8 +12585,8 @@ SplineSet
  92 538.22265625 l 1
  232.599609375 558.22265625 l 1
 EndSplineSet
-Substitution2: "MahoneSansBold-'ss09' Style Set 9 lookup 17-1" tbar.salt
 Substitution2: "MahoneSansBold-'salt' Stylistic Alternatives in Latin lookup 3-1" tbar.salt
+Substitution2: "MahoneSansBold-'ss09' Style Set 9 lookup 17-1" tbar.salt
 EndChar
 
 StartChar: uni018F
@@ -13272,11 +13375,11 @@ EndChar
 
 StartChar: uni01CC
 Encoding: 460 460 508
-Width: 712
+Width: 723
 Flags: H
 LayerCount: 2
 Fore
-Refer: 45 106 N 1 0 0 1 497 0 2
+Refer: 45 106 N 1 0 0 1 508 0 2
 Refer: 49 110 N 1 0 0 1 0 0 2
 EndChar
 
@@ -13302,11 +13405,11 @@ EndChar
 
 StartChar: uni01F3
 Encoding: 499 499 511
-Width: 916
+Width: 920
 Flags: H
 LayerCount: 2
 Fore
-Refer: 61 122 N 1 0 0 1 496 0 2
+Refer: 61 122 N 1 0 0 1 500 0 2
 Refer: 39 100 N 1 0 0 1 0 0 2
 EndChar
 
