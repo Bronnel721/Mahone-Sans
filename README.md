@@ -1,1 +1,1 @@
-# This is for early access. Don't use this font while it's being made, but try it out.
+# This is for early access. Please don't use this font until its first release, but try it out.
