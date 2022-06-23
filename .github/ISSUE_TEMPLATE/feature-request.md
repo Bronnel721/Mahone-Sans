@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. For example, "Could you add anchor points?"
+A clear and concise description of what the problem is. For example, “Could you add anchor points?”
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
