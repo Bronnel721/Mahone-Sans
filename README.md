@@ -1,5 +1,5 @@
 # Mahone Sans
-**2025 Note:** **This font is outdated and kind of ugly. Unless if you're speaking a language that this font has which the new version doesn't, you should get the new one here: https://github.com/Bronnel721/Zamero-Sans**
+**2026 Note:** **This font is outdated and kind of ugly. Unless if you're speaking a language that this font has which the new version doesn't, you should get the new one here: https://github.com/Bronnel721/Zamero-Sans**
 
 ________________________
 
